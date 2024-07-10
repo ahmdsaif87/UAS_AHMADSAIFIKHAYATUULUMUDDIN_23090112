@@ -20,4 +20,4 @@ while True:
     if pilihan == '1':
         df.mean()
     elif pilihan == '2':
-        df.mean
+        df.mean(axis=1)
